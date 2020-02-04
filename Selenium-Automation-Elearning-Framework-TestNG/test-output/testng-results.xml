@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105226" started-at="2020-02-04T15:23:19 IST" finished-at="2020-02-04T15:25:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105226" started-at="2020-02-04T15:23:19 IST" finished-at="2020-02-04T15:25:04 IST">
+      <class name="com.training.sanity.tests.Assignment2_Med_ELTC_0036_Test">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.Assignment2_Med_ELTC_0036_Test@d44fc21]" name="setUpBeforeClass" is-config="true" duration-ms="39271" started-at="2020-02-04T15:23:19 IST" finished-at="2020-02-04T15:23:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="validLoginTest()[pri:1, instance:com.training.sanity.tests.Assignment2_Med_ELTC_0036_Test@d44fc21]" name="validLoginTest" duration-ms="19927" started-at="2020-02-04T15:23:58 IST" finished-at="2020-02-04T15:24:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="TestFunctionality()[pri:2, instance:com.training.sanity.tests.Assignment2_Med_ELTC_0036_Test@d44fc21]" name="TestFunctionality" duration-ms="45579" started-at="2020-02-04T15:24:18 IST" finished-at="2020-02-04T15:25:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFunctionality -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.Assignment2_Med_ELTC_0036_Test@d44fc21]" name="tearDown" is-config="true" duration-ms="321" started-at="2020-02-04T15:25:04 IST" finished-at="2020-02-04T15:25:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.Assignment2_Med_ELTC_0036_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
